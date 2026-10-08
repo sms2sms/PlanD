@@ -1,4 +1,4 @@
-![#PlanD Framework](pland.png)# #PlanD
+![#PlanD Framework](PlanD.png)# #PlanD
 
 
 OBSERVE → PARAMETRIZE → ENABLE → TEST
